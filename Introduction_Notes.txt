@@ -1,0 +1,8 @@
+
+HTML is the building blocks for your website
+
+CSS (Cascading Style Sheets) is want is used to make the website look good
+
+w3shools.com is very good for learning HTML and CSS they also have other languages such as Python etc.
+
+the CSS goes in the style tags
