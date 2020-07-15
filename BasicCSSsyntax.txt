@@ -1,4 +1,0 @@
-you can insert CSS into HTML though external documents
-but that will be a part of the next video.
-
-
